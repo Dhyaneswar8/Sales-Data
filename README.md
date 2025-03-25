@@ -61,7 +61,7 @@ UnitPrice ≤ 0
 - **Leverage Online Channels** for wider product range and targeted marketing.
 # 5. Sales Forecasting
 ## Forecast Model: ARIMA (1,1,1)
-###Forecast Month	Predicted Net Revenue
+### Forecast Month	Predicted Net Revenue
 | Forecast Month | Predicted Net Revenue 
 |----------------|------------------------|
 | Next Month     | $198925.36              |
