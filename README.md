@@ -62,9 +62,8 @@ UnitPrice ≤ 0
 # 5. Sales Forecasting
 ## Forecast Model: ARIMA (1,1,1)
 ###Forecast Month	Predicted Net Revenue
-| Forecast Month | Predicted Net Revenue  |   |   |   |   |   |   |   |   |
-|----------------|------------------------|---|---|---|---|---|---|---|---|
-| Next Month     | $198925.36              |   |   |   |   |   |   |   |   |
-| +2 Months      | $397850.72               |   |   |   |   |   |   |   |   |
-| +3 Months      | $596776.08               |   |   |   |   |   |   |   |   |
-|                |                        |
+| Forecast Month | Predicted Net Revenue  
+|----------------|------------------------|
+| Next Month     | $198925.36              |
+| +2 Months      | $397850.72               | 
+| +3 Months      | $596776.08               |
