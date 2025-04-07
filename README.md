@@ -38,12 +38,14 @@ UnitPrice ≤ 0
 # 3. Visualizations
 ## Sales Trend Over Time
 “Monthly Net Revenue shows an upward trend in Q4, with peaks in November and December.”
+![screenshot](images/Sales%20Trend.png)
 ## Top 10 Products by Net Revenue
 “Headphones and Office Chairs dominate product sales.”
 
 ![screenshot](images/Top%2010%20product%20by%20net%20revenue.png)
 ## Segmentation Scatter Plot (RFM Segments)
 “Segment 0 customers are highly valuable based on their recency, frequency, and monetary scores.”
+![screenshot](images/Customer%20segmentation.png)
 ## Sales by Country
 “Australia leads total sales, followed by Spain and Germany.”
 # 4. Insights and Recommendations
@@ -67,3 +69,4 @@ UnitPrice ≤ 0
 | Next Month     | $198925.36              |
 | +2 Months      | $397850.72               | 
 | +3 Months      | $596776.08               |
+![screenshot](images/Sales%20Forecasting.png)
